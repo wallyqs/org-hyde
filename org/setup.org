@@ -95,10 +95,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Literate Infrastructure Notes
+title:            Hyde
 tagline:          ''
 description:      '<a href="https://twitter.com/mdo" target="_blank">@wallyqs</a>.'
-url:              http://blog.wallyqs.apps.tokyo
 baseurl:          /
 
 author:
